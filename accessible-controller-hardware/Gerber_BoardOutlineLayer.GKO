@@ -1,0 +1,20 @@
+G04 Layer: BoardOutlineLayer*
+G04 Gerber Generator version 0.2*
+G04 Scale: 100 percent, Rotated: No, Reflected: No *
+G04 Dimensions in millimeters *
+G04 leading zeros omitted , absolute positions ,4 integer and 5 decimal *
+%FSLAX45Y45*%
+%MOMM*%
+
+%ADD10C,0.2540*%
+D10*
+X700023Y8599931D02*
+G01*
+X13899895Y8599931D01*
+X13899895Y-199897D01*
+X-1117600Y-199897D01*
+X-1117600Y8599931D01*
+X700023Y8599931D01*
+
+%LPD*%
+M02*
